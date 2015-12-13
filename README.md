@@ -1,2 +1,2 @@
 # http://ArticPlays.github.io
-My Personalidade Website
+My Personal Website
