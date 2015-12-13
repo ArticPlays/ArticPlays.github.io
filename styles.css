@@ -2,3 +2,39 @@ body
 {
   font-size: 25pt; 
 }
+
+div1 {
+    position: static;
+    border: 3px solid #73AD21;
+}
+
+div2 {
+    position: relative;
+    left: 250px;
+    border: 0px solid #399;
+}
+
+div3 {
+    position: relative;
+    left: 220px;
+    border: 0px solid #399;
+}
+
+div4 {
+    position: relative;
+    left: 150px;
+	width:40em;
+	height: 20em;
+    border: 0px solid #399;
+}
+
+copy{
+  font-size: 12pt;
+}
+
+#search {
+    width: 20em;  height: 3em;
+}
+
+
+
